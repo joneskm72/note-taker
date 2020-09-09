@@ -1,0 +1,25 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "* [General Info](#general-info)\r * [Technologies](#technologies)\r * [Features](#features)\r * [How to Use](#how-to-use)\r * [Application Demo](#application-demo)\r * [Application Link](#application-link)\r * [License](#license)\r * [Contact](#contact)",
+  "main": "apiRoutes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joneskm72/note-taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joneskm72/note-taker/issues"
+  },
+  "homepage": "https://github.com/joneskm72/note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "util": "^0.12.3",
+    "uuid": "^8.3.0"
+  }
+}
